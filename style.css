@@ -1,0 +1,54 @@
+h2{
+    color:orange;
+    background-color: #ffffff;
+}
+
+p{
+    color: #0000ff;
+    
+}
+body{
+    background-color: #bbbbbb;
+    
+}
+
+#heading1{
+    color:green
+}
+
+#heading2{
+    color:blue
+}
+
+
+.myclass{
+    color:pink
+}
+
+div{
+    height:100px;
+    width:100px;
+    
+text-align: inline;
+background-image: img1.jpg;
+}
+header
+{
+color:#ffffff;
+text-align: center;
+position: relative;
+
+}
+
+
+
+
+\
+in css jo code last la asto tyla first priority dili jate
+ex. h2 madhe saglya heading la color orange set kela hota.
+ pn specific heading 1 sathi color grenn dila tr green color
+  la priority dili geli.
+
+  jr 2 kiva 2 peksha jast heading la same color kiva other property 
+  kaeyachi asel tr same id use n karta same class use karava
+  ex. .myclass
